@@ -1,0 +1,7 @@
+selenium>=4.0
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+beautifulsoup4>=4.11
+jupyter>=1.0
+matplotlib>=3.6
